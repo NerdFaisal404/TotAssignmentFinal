@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TOT Assignment</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view">ViewActivity</string>
+    <string name="email">Email</string>
+    <string name="description">Description</string>
+    <string name="data_save">Save</string>
+    <string name="institution">Institution</string>
+    <string name="phone">Phone</string>
+    <string name="gender">Gender</string>
+    <string name="name">Name</string>
+    <string name="message">No Student Record Found</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="action_webview">Web View</string>
+
+    <string name="web_view_url">https://google.com</string>
+</resources>
